@@ -1,0 +1,7 @@
+# .gitignore
+
+# Python cache
+__pycache__/
+
+# Local figure_main.py file
+figure_main.py
